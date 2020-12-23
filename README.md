@@ -1,6 +1,6 @@
 ### 안녕하세요!? 👋
 
-리액트 네이티브 공부 중인 김효선 입니다 :)
+React.js React Native 공부 중인 김효선 입니다 :)
 <!--
 **Khyosunny/Khyosunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
