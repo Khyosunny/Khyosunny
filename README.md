@@ -1,7 +1,7 @@
 ### 안녕하세요!? 👋
 
-JavaScript / TypeScript
-React.js / React Native
+JavaScript / TypeScript /
+React.js / React Native /
 Node.js Express.js / Docker 공부 중인 김효선 입니다 :)
 
 
