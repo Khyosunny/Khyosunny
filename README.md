@@ -1,6 +1,8 @@
 ### 안녕하세요!? 👋
 
-React.js / React Native / Node.js 공부 중인 김효선 입니다 :)
+JavaScript / TypeScript
+React.js / React Native
+Node.js Express.js / Docker 공부 중인 김효선 입니다 :)
 
 
 [![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyosunny&show_icons=true&theme=dark)](https://github.com/Khyosunny/github-readme-stats)
