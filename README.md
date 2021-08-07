@@ -15,7 +15,12 @@ Node.js Express.js / Docker
 ![Next.js](https://img.shields.io/badge/-Next.js-white)
 ![Docker](https://img.shields.io/badge/-Docker-darkblue)
 
-[![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyosunny&show_icons=true&theme=dark)](https://github.com/Khyosunny/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khyosunny&layout=compact&theme=vision-friendly-dark)](https://github.com/Khyosunny/github-readme-stats)
+
+[![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyosunny&show_icons=true&theme=vision-friendly-dark)](https://github.com/Khyosunny/github-readme-stats)
+
+
+
 <!--
 **Khyosunny/Khyosunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
