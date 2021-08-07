@@ -2,9 +2,7 @@
 
 배움을 즐거워하는 프론트엔드 개발자 김효선입니다 :)
 
-JavaScript / TypeScript /
-React.js / React Native / Next.js /
-Node.js Express.js / Docker
+### 🖥  Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-red)
@@ -13,6 +11,7 @@ Node.js Express.js / Docker
 ![React.js](https://img.shields.io/badge/-React.js-deepskyblue)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-teal)
 ![Next.js](https://img.shields.io/badge/-Next.js-white)
+![Express](https://img.shields.io/badge/-Express.js-deepgreen)
 ![Docker](https://img.shields.io/badge/-Docker-darkblue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khyosunny&layout=compact&theme=vision-friendly-dark)](https://github.com/Khyosunny/github-readme-stats)
