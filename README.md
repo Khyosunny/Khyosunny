@@ -17,7 +17,7 @@ Node.js Express.js / Docker
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khyosunny&layout=compact&theme=vision-friendly-dark)](https://github.com/Khyosunny/github-readme-stats)
 
-[![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyosunny&show_icons=true&theme=vision-friendly-dark)](https://github.com/Khyosunny/github-readme-stats)
+[![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyosunny&show_icons=true&icon_color=ff35bc&theme=vision-friendly-dark)](https://github.com/Khyosunny/github-readme-stats)
 
 
 <!--
