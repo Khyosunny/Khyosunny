@@ -1,8 +1,10 @@
 ### 안녕하세요!? 👋
 
+배움을 즐거워하는 프론트엔드 개발자 김효선입니다 :)
+
 JavaScript / TypeScript /
 React.js / React Native / Next.js /
-Node.js Express.js / Docker 공부 중인 김효선 입니다 :)
+Node.js Express.js / Docker
 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-red)
