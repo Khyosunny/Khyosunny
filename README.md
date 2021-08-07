@@ -4,13 +4,13 @@ JavaScript / TypeScript /
 React.js / React Native / Next.js /
 Node.js Express.js / Docker 공부 중인 김효선 입니다 :)
 
-![HTML](https://img.shields.io/badge/-HTML-brightgreen)
+![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
-![JavaScript](https://img.shields.io/badge/-JavaScript-orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-red)
-![React.js](https://img.shields.io/badge/-React.js-lightgrey)
+![React.js](https://img.shields.io/badge/-React.js-blue)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-blue)
-![Next.js](https://img.shields.io/badge/-Next.js-yellow)
+![Next.js](https://img.shields.io/badge/-Next.js-white)
 ![Docker](https://img.shields.io/badge/-Docker-darkblue)
 
 [![Hyosun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khyosunny&show_icons=true&theme=dark)](https://github.com/Khyosunny/github-readme-stats)
