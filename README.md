@@ -7,7 +7,7 @@ Node.js Express.js / Docker 공부 중인 김효선 입니다 :)
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)lightskyblue
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![React.js](https://img.shields.io/badge/-React.js-lightskyblue)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-lightblue)
 ![Next.js](https://img.shields.io/badge/-Next.js-white)
