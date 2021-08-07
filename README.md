@@ -5,11 +5,11 @@ React.js / React Native / Next.js /
 Node.js Express.js / Docker 공부 중인 김효선 입니다 :)
 
 ![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-yellowgreen)
+![CSS](https://img.shields.io/badge/-CSS-red)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![TypeScript](https://img.shields.io/badge/-TypeScript-red)
+![TypeScript](https://img.shields.io/badge/-TypeScript-lightskyblue)
 ![React.js](https://img.shields.io/badge/-React.js-blue)
-![ReactNative](https://img.shields.io/badge/-ReactNative-blue)
+![ReactNative](https://img.shields.io/badge/-ReactNative-lightblue)
 ![Next.js](https://img.shields.io/badge/-Next.js-white)
 ![Docker](https://img.shields.io/badge/-Docker-darkblue)
 
